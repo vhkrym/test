@@ -119,4 +119,4 @@ python analyze.py
 python backtest.py
 ```
 
-原始数据文件不应被清洗脚本覆盖。是否将原始 CSV 提交到仓库，应遵循任务的数据使用和公开要求。
+
