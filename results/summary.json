@@ -1,0 +1,12 @@
+{
+  "total_orders": 909,
+  "accepted_orders": 766,
+  "rejected_orders": 101,
+  "unknown_orders": 42,
+  "known_result_orders": 867,
+  "rejection_rate_among_known": 0.11649365628604383,
+  "raw_rows": 954,
+  "duplicate_extra_rows": 45,
+  "duplicate_po_ids": 45,
+  "negative_sync_age_orders": 0
+}
